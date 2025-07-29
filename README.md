@@ -26,13 +26,13 @@ This repository serves as a learning hub to:
 
 ## 📁 Folder Structure
 
-javascript-edu-kit/
-├── number-programs/
-├── dom-projects/
-├── mini-games/
-├── utilities/
-├── Mini Projects/
-├── UpComing Soon.../
+javascript-edu-kit/ <br>
+├── number-programs/ <br>
+├── dom-projects/ <br>
+├── mini-games/ <br>
+├── utilities/ <br>
+├── Mini Projects/ <br>
+├── UpComing Soon.../ <br>
 
 ## 🚀 Getting Started
 
