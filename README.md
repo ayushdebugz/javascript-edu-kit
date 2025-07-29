@@ -33,12 +33,12 @@ This repository serves as a learning hub to:
 ## 📁 Folder Structure
 
 javascript-edu-kit/ <br>
-├── number-programs/ <br>
-├── dom-projects/ <br>
-├── mini-games/ <br>
-├── utilities/ <br>
-├── Mini Projects/ <br>
-├── .../ <br>
+├── number-programs <br>
+├── dom-projects <br>
+├── mini-games <br>
+├── utilities <br>
+├── Mini Projects <br>
+├── .... <br>
 
 
 
