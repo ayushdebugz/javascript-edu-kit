@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg" width="600" alt="Python Educational Repository">
+</p>
+
 # 📦 JavaScript Edu Kit
 
 **JavaScript Edu Kit** is a curated collection of beginner to intermediate-level JavaScript projects, code snippets, and logic-based examples. Built and shared for educational purposes, this repository is ideal for students, self-learners, and anyone looking to strengthen their JS fundamentals through hands-on practice.
@@ -35,20 +39,19 @@ javascript-edu-kit/
 1. Clone or download the repo:
    ```bash
    git clone https://github.com/yourusername/javascript-edu-kit
-Open any folder/project in your favorite code editor
+2. Open any folder/project in your favorite code editor
 
-Run the .html file in a browser to see it in action
+3. Run the .html file in a browser to see it in action
 
-👨‍💻 Contributing
+## 👨‍💻 Contributing
+
 You're welcome to contribute more projects or improve existing ones!
 
-Fork the repository
+⏺️ Fork the repository
+⏺️ Create a new branch (git checkout -b feature-name)
+⏺️ Commit your changes
+⏺️ Push and open a pull request
 
-Create a new branch (git checkout -b feature-name)
+## 📃 License
 
-Commit your changes
-
-Push and open a pull request
-
-📃 License
 This project is licensed under the MIT License.
