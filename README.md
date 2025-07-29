@@ -38,7 +38,7 @@ javascript-edu-kit/ <br>
 ├── mini-games/ <br>
 ├── utilities/ <br>
 ├── Mini Projects/ <br>
-├── UpComing Soon.../ <br>
+├── .../ <br>
 
 
 
