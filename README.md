@@ -6,12 +6,16 @@
 
 **JavaScript Edu Kit** is a curated collection of beginner to intermediate-level JavaScript projects, code snippets, and logic-based examples. Built and shared for educational purposes, this repository is ideal for students, self-learners, and anyone looking to strengthen their JS fundamentals through hands-on practice.
 
+
+
 ## 🎯 Purpose
 
 This repository serves as a learning hub to:
 - Understand core JavaScript concepts through real examples
 - Practice coding logic via mini-projects and challenges
 - Provide ready-to-use starter code for beginners
+
+
 
 ## 🛠️ What's Inside
 
@@ -24,6 +28,8 @@ This repository serves as a learning hub to:
 
 > **More projects will be added gradually** to expand the learning scope.
 
+
+
 ## 📁 Folder Structure
 
 javascript-edu-kit/ <br>
@@ -34,6 +40,8 @@ javascript-edu-kit/ <br>
 ├── Mini Projects/ <br>
 ├── UpComing Soon.../ <br>
 
+
+
 ## 🚀 Getting Started
 
 1. Clone or download the repo:
@@ -43,14 +51,18 @@ javascript-edu-kit/ <br>
 
 3. Run the .html file in a browser to see it in action
 
+
+
 ## 👨‍💻 Contributing
 
 You're welcome to contribute more projects or improve existing ones!
 
-⏺️ Fork the repository
-⏺️ Create a new branch (git checkout -b feature-name)
-⏺️ Commit your changes
-⏺️ Push and open a pull request
+⏺️ Fork the repository <br>
+⏺️ Create a new branch (git checkout -b feature-name) <br>
+⏺️ Commit your changes <br>
+⏺️ Push and open a pull request 
+
+
 
 ## 📃 License
 
