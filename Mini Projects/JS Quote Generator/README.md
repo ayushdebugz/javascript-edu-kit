@@ -1,4 +1,4 @@
-![Quote Spark Banner](SS)
+![Quote Spark Banner](SS.png)
 
 # ✨ Quote Spark
 
@@ -11,7 +11,7 @@
 - 🔁 Click-to-generate random quotes
 - 🎨 Lightweight and responsive UI
 - 📜 50+ curated motivational and mindful quotes
-- 💡 Built using Vanilla JS
+- 💡 Built using JS
 
 ## 📁 Files
 - `index.html` – App structure  
